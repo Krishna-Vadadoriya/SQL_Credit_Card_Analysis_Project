@@ -1,1 +1,0 @@
-# SQL_Credit_Card_Analysis_Project
